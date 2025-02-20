@@ -1,0 +1,26 @@
+[assist09]
+train = "assist09/train.txt"
+test = "assist09/test.txt"
+n_questions = 123
+n_pid = 17751
+n_features = 3
+inputs = ["pid", "q", "s"]
+
+[NIPS34_l200m_f01]
+train = "nips34_dtransformer_len200m/fold1/train.txt"
+test = "nips34_dtransformer_len200m/fold1/test.txt"
+n_questions = 655
+n_pid = 948
+n_features = 3
+inputs = ["pid", "q", "s"]
+kp_len = [[0,1], [1, 11], [11,12]]
+
+[arithmetic_retag]
+discribe = "1220口算数据(重新打标)"
+train = "arithmetic_retag/train.txt"
+test = "arithmetic_retag/test.txt"
+n_questions = 70                            # 模型和数据集中的ID均从1开始
+n_pid = 700                                 # 约180-677
+n_features = 4
+inputs = ["pid", "q", "s", "t"]
+kp_len = [[0,1], [1,21], [21,22], [22,23]]  # multi KC(最多20个tag)

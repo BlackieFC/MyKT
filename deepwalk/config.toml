@@ -1,0 +1,36 @@
+data_path_v1='/mnt/new_pfs/liming_team/auroraX/caoying/Graph-Networks/topic_data/v1/' 
+content_v1='cora_819_alldata.content'
+cites_v1='cora_819_alldata.cites'
+jsonl_file_v1='en_title_100w_audio_filter_v2.jsonl'
+
+
+data_path_v2='/mnt/new_pfs/liming_team/auroraX/caoying/Graph-Networks/topic_data/v2/'
+content_v2='cora_v4.content'
+cites_v2='cora_v4.cites'
+jsonl_file_v2='en_title_100w_audio_filter_v4.jsonl'
+
+# 边带权重
+data_path_v2_5='/mnt/new_pfs/liming_team/auroraX/caoying/Graph-Networks/topic_data/v2.5/'
+jsonl_file_v2_5='en_title_100w_audio_filter_v4.jsonl'
+cites_v2_5='cora_weight_topic_only.cites'
+content_v2_5='cora_weight_topic_only.content'
+
+model_save_path="embedding.model"
+walks_save_path="random_walks.txt"
+png_path='embeddings.png'
+theme_emb_path='theme_emb.csv'
+topic_emb_path='topic_emb.csv'
+theme_sim_path="theme_sim.xlsx"
+topic_sim_path="topic_sim.xlsx"
+dimensions=128
+
+# 话题及对应的 id
+id4topics='PROC_id4topics.json'
+# topic以及 theme对应的 id
+topics_themes_id = 'topics_themes_id.json'
+# cites 将名字转化为topics_themes_id文件对应的 id
+cites_id='cites.id'
+# theme和topic的id及其embedding
+topics_themes_id_emb='topics_themes_id_emb.csv'
+
+
