@@ -433,8 +433,8 @@
         <mxCell id="-WW64zSXT4JewAFfHGF--1901" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;(b)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;Exercise cold-start&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-285" y="780" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-WW64zSXT4JewAFfHGF--1904" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;In the exercise&amp;nbsp;cold-start scenario, warm and cold data can be regarded as delineated by an arbitrary curve at the exercise level.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-743.05" y="1540" width="1160" height="40" as="geometry" />
+        <mxCell id="-WW64zSXT4JewAFfHGF--1904" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;※In the exercise&amp;nbsp;cold-start scenario, warm and cold data can be regarded as devided by an arbitrary curve at the exercise level.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-289.99999999999994" y="1530" width="1380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-WW64zSXT4JewAFfHGF--1905" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;exercise&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;4&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=0;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="-130" y="290" width="80" height="80" as="geometry" />
